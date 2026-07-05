@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hassan Dosunmu — Zaygal
+# Hassan Dosunmu- [Zaygal]
 
 **Builder / Technical Founder** · Founder of [Zay Studio](https://zays.vercel.app)
 
