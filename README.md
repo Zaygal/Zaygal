@@ -71,8 +71,6 @@ Job aggregation platform with a paid AI-powered CV upgrade feature, Nigeria-firs
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaygal&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaygal&theme=dark&hide_border=true)
-
 </div>
 
 -----
