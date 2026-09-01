@@ -1,72 +1,126 @@
-<div align="center">
-
 # Hassan Dosunmu (Zaygal)
 
-**Builder / Technical Founder · Founder of** [Zay Studio](https://zays.vercel.app)
+### Technical Founder · Builder · Product Engineer · Founder of Zay Studio
 
-I build operational software for organizations that are still running on spreadsheets and paperwork.
+I build software, systems, and products around problems that are still being handled manually.
 
-[![X](https://img.shields.io/badge/X-@zaygalx1-000000?style=flat&logo=x)](https://x.com/zaygalx1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Dosunmu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hassan-dosunmu-8823a5260)
-[![Email](https://img.shields.io/badge/Email-dosunmuh070%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dosunmuh070@gmail.com)
+My work spans operational software, automation, Web3, offline communication, and tools built for African users and organizations.
 
-</div>
+I care less about following a conventional development path and more about understanding a problem deeply enough to build something that works.
+
+[X](https://x.com/zaygalx1) · [LinkedIn](https://www.linkedin.com/in/hassan-dosunmu-8823a526/) · [Email](mailto:dosunmuh070@gmail.com)
+
+---
 
 ## About
 
-I’m a self taught technical founder based in Nigeria. I design and ship full stack operational software, things like dashboards, automation pipelines, and internal tools, for organizations that need to move off manual processes.
+I'm a technical founder and builder based in Nigeria.
 
-I do all of this without a traditional dev setup. Just a working knowledge of the tools and a lot of persistence.
+I design and ship full-stack products, internal systems, automation pipelines, dashboards, bots, and experimental infrastructure.
 
-I also founded Voice of Young Nigerians (VoYN), a civic advocacy movement focused on Nigerian youth digital rights and creator economy policy.
+I've spent years around crypto and Web3, working across communities, products, research, and technical projects. More recently, I've been focused on turning that experience into products of my own.
 
-## Featured Work
+I founded **Zay Studio**, where I build operational software for organizations that need to replace spreadsheets, fragmented workflows, and manual processes.
 
-### [CopaLog](https://copalog.vercel.app)
+I also founded **Voice of Young Nigerians (VoYN)**, a civic initiative focused on Nigerian youth, digital rights, and the creator economy.
 
-An operational management platform built for NYSC. It runs on a five role hierarchy (HQ Admin, State Coordinator, LGA Officer, PPA Supervisor, Corps Member) and replaces manual reporting with a centralized, real time system. Includes roster validation, a Telegram bot for logging, live dashboards, and a full security hardening pass (Grade A headers, rate limiting, IDOR testing).
+---
 
-It was demonstrated at YEEP’26 to NYSC HQ ICT leadership, and a formal technical report was requested for implementation review.
+## What I Build
 
-Stack: Next.js, Supabase, PostgreSQL, Telegram Bot API, n8n, Upstash Redis, Vercel
+- Operational software
+- Full-stack web applications
+- Automation systems
+- AI-powered workflows
+- Developer tools
+- Web3 / crypto products
+- Offline-first communication systems
+- Internal dashboards and management platforms
 
-### [Zay Studio](https://zays.vercel.app)
+---
 
-My studio’s site. Positioning, case studies, and the front door for organizations that need operational software built.
+## Selected Work
 
-Stack: Next.js, TypeScript, Tailwind CSS, Vercel
+### Zaycomm
+
+An experimental offline-first communication system focused on encrypted communication without relying entirely on conventional internet infrastructure.
+
+The project explores secure peer-to-peer communication, message fragmentation and reassembly, networking architecture, and building resilient communication infrastructure for environments where connectivity cannot be assumed.
+
+**Focus:** Rust · Networking · Cryptography · Offline Systems · Protocol Design
+
+---
+
+### CopaLog
+
+An operational management platform designed to replace manual reporting and fragmented coordination with a centralized system.
+
+The system was built around a hierarchical organizational structure and included dashboards, roster validation, Telegram-based logging, automation, and security controls.
+
+The project was demonstrated to NYSC HQ ICT leadership and led to a request for a formal technical implementation report.
+
+**Stack:** Next.js · TypeScript · PostgreSQL · Supabase · Telegram Bot API · n8n · Redis · Vercel
+
+---
+
+### Zay Studio
+
+My software studio focused on building practical digital systems for organizations.
+
+The studio's work centers on operational software, automation, dashboards, internal tools, and custom products.
+
+**Stack:** Next.js · TypeScript · Python · Automation · AI
+
+---
 
 ### VoYN Content Pipeline
 
-An autonomous multi platform content system. RSS feeds feed into AI content generation, which routes through a Telegram approval gate before distributing automatically across X, LinkedIn, Facebook, Instagram, and Telegram. Built entirely on n8n, with branded visual card generation through Cloudflare Workers.
+An automated multi-platform publishing system built for Voice of Young Nigerians.
 
-Stack: n8n, Groq, Supabase, Cloudflare Workers
+The system collects information from RSS sources, processes it through AI workflows, routes content through an approval system, generates branded visual content, and distributes approved content across multiple platforms.
 
-### CareerLiftNG
+**Stack:** n8n · AI/LLMs · Telegram · Cloudflare Workers
 
-A job aggregation platform with a paid AI powered CV upgrade feature, Nigeria first listings, and full payment integration.
+---
 
-Stack: Next.js, Supabase, Claude API, Paystack
+## Web3
 
-## Stack
+I've been involved in crypto and Web3 for more than five years.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+My experience includes:
 
-<div align="center">
+- Community management
+- Web3 product research
+- DeFi
+- Protocol communities
+- Creator/community growth
+- Crypto-native product experimentation
+- Technical product building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaygal&show_icons=true&theme=dark&hide_border=true&count_private=true)
+I approach Web3 from both sides: understanding the technology and understanding the people using it.
 
-</div>
+---
 
-<div align="center">
+## Current Direction
 
-Currently completing NYSC service, building Zay Studio, and open to conversations about operational software for your organization.
+I'm particularly interested in:
 
-</div>
+**Infrastructure · AI · Web3 · Communication · African Technology · Automation**
+
+I'm interested in difficult problems where software can replace inefficient systems, reduce dependency on manual processes, or make something previously impractical possible.
+
+---
+
+## Philosophy
+
+> Build first. Learn from what breaks. Ship again.
+
+I don't believe you need a conventional path to become a serious builder.
+
+You need curiosity, persistence, technical depth, and the willingness to keep building when nobody is watching.
+
+---
+
+### Zay Studio
+
+Building software for organizations that need to move beyond manual processes.
