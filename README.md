@@ -1,126 +1,34 @@
 # Hassan Dosunmu (Zaygal)
 
-### Technical Founder · Builder · Product Engineer · Founder of Zay Studio
+Self taught engineer. I work on Solana and React Native wallets, protocol tooling, and operational software for organizations still running on spreadsheets.
 
-I build software, systems, and products around problems that are still being handled manually.
+[X](https://x.com/zaygalx1) · [LinkedIn](https://www.linkedin.com/in/hassan-dosunmu-8823a526/) · [dosunmuh070@gmail.com](mailto:dosunmuh070@gmail.com)
 
-My work spans operational software, automation, Web3, offline communication, and tools built for African users and organizations.
+## Open source
 
-I care less about following a conventional development path and more about understanding a problem deeply enough to build something that works.
+Merged:
 
-[X](https://x.com/zaygalx1) · [LinkedIn](https://www.linkedin.com/in/hassan-dosunmu-8823a526/) · [Email](mailto:dosunmuh070@gmail.com)
+- **[livekit/agents#7580](https://github.com/livekit/agents/pull/7580)**: lets you opt out of the local EOT weights in the preload
+- **[auscaster/stompstart-startup-list#62](https://github.com/auscaster/stompstart-startup-list/pull/62)**: adds a startup to the list
 
----
+Under review:
 
-## About
+- **[openfort-js#384](https://github.com/openfort-xyz/openfort-js/pull/384)**: chains passed to the Ethereum provider were dropped after memoization
+- **[wdk-react-native-core#128](https://github.com/tetherto/wdk-react-native-core/pull/128)**: a missing result treated as an error instead of an empty value
+- **[openrampkit#11](https://github.com/yosriady/openrampkit/pull/11)**: Privy embedded wallet adapter
 
-I'm a technical founder and builder based in Nigeria.
+## Selected work
 
-I design and ship full-stack products, internal systems, automation pipelines, dashboards, bots, and experimental infrastructure.
+**[CopaLog](https://zays.vercel.app/case-studies/copalog)**: service year operations platform with a five role hierarchy, real time dashboards, a Telegram bot and Sentry. Live since June 2026. Next.js, Supabase, Vercel.
 
-I've spent years around crypto and Web3, working across communities, products, research, and technical projects. More recently, I've been focused on turning that experience into products of my own.
+**[Zaycomm](https://github.com/Zaygal/Zaycomm)**: transport agnostic mesh protocol. Ten RFCs, a TypeScript reference implementation, native BLE for Android and iOS, X25519, Ed25519, Noise IK, Double Ratchet. 210 tests. MIT.
 
-I founded **Zay Studio**, where I build operational software for organizations that need to replace spreadsheets, fragmented workflows, and manual processes.
+**[Clock In](https://github.com/Zaygal/solana-mobile-scaffold)**: Solana Mobile app on bare React Native with Mobile Wallet Adapter. CI runs an emulator MWA smoke test that exercises the real wallet transaction path.
 
-I also founded **Voice of Young Nigerians (VoYN)**, a civic initiative focused on Nigerian youth, digital rights, and the creator economy.
+## Stack
 
----
-
-## What I Build
-
-- Operational software
-- Full-stack web applications
-- Automation systems
-- AI-powered workflows
-- Developer tools
-- Web3 / crypto products
-- Offline-first communication systems
-- Internal dashboards and management platforms
+TypeScript · Python · Solidity · React Native · Next.js · Solana (Mobile Wallet Adapter, web3.js) · Foundry · Supabase · BLE and mesh protocols
 
 ---
 
-## Selected Work
-
-### Zaycomm
-
-An experimental offline-first communication system focused on encrypted communication without relying entirely on conventional internet infrastructure.
-
-The project explores secure peer-to-peer communication, message fragmentation and reassembly, networking architecture, and building resilient communication infrastructure for environments where connectivity cannot be assumed.
-
-**Focus:** Rust · Networking · Cryptography · Offline Systems · Protocol Design
-
----
-
-### CopaLog
-
-An operational management platform designed to replace manual reporting and fragmented coordination with a centralized system.
-
-The system was built around a hierarchical organizational structure and included dashboards, roster validation, Telegram-based logging, automation, and security controls.
-
-The project was demonstrated to NYSC HQ ICT leadership and led to a request for a formal technical implementation report.
-
-**Stack:** Next.js · TypeScript · PostgreSQL · Supabase · Telegram Bot API · n8n · Redis · Vercel
-
----
-
-### Zay Studio
-
-My software studio focused on building practical digital systems for organizations.
-
-The studio's work centers on operational software, automation, dashboards, internal tools, and custom products.
-
-**Stack:** Next.js · TypeScript · Python · Automation · AI
-
----
-
-### VoYN Content Pipeline
-
-An automated multi-platform publishing system built for Voice of Young Nigerians.
-
-The system collects information from RSS sources, processes it through AI workflows, routes content through an approval system, generates branded visual content, and distributes approved content across multiple platforms.
-
-**Stack:** n8n · AI/LLMs · Telegram · Cloudflare Workers
-
----
-
-## Web3
-
-I've been involved in crypto and Web3 for more than five years.
-
-My experience includes:
-
-- Community management
-- Web3 product research
-- DeFi
-- Protocol communities
-- Creator/community growth
-- Crypto-native product experimentation
-- Technical product building
-
-I approach Web3 from both sides: understanding the technology and understanding the people using it.
-
----
-
-## Current Direction
-
-I'm particularly interested in:
-
-**Infrastructure · AI · Web3 · Communication · African Technology · Automation**
-
-I'm interested in difficult problems where software can replace inefficient systems, reduce dependency on manual processes, or make something previously impractical possible.
-
----
-
-## Philosophy
-
-> Build first. Learn from what breaks. Ship again.
-
-I don't believe you need a conventional path to become a serious builder.
-
-You need curiosity, persistence, technical depth, and the willingness to keep building when nobody is watching.
-
----
-
-### Zay Studio
-
-Building software for organizations that need to move beyond manual processes.
+[zays.vercel.app](https://zays.vercel.app) · building software for organizations that need to move beyond manual processes
